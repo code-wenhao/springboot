@@ -19,4 +19,8 @@ public class MyMvcConfig implements WebMvcConfigurer {
                 .excludePathPatterns("/user/singin").excludePathPatterns("/user/login");
     }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> e8b38d5e08ebe8a2044cfc3d5a0f75ed49982d08
 }
